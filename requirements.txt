@@ -1,5 +1,5 @@
 #Dataset Assembly
-docx #Для работы с docx
+python-docx #Для работы с docx
 doc2docx #Для конвертации doc в docx
 striprtf #Для получения текста из rtf
 
