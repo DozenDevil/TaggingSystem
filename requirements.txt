@@ -1,0 +1,15 @@
+#Dataset Assembly
+docx #Для работы с docx
+doc2docx #Для конвертации doc в docx
+striprtf #Для получения текста из rtf
+
+#Набор для обработки pdf
+PyPDF2
+pdfminer.six
+pdfplumber
+pdf2image
+Pillow
+tesseract
+
+#Набор для NLP
+nltk

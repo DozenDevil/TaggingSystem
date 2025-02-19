@@ -1,0 +1,2 @@
+poppler_path = r'F:\GoogleDrive\Политех\Файлы для обучения 3 курс\Практика\Июльская\TaggingSystem\dataset_assembly\poppler-24.02.0\Library\bin'
+tesseract_path = r'C:\Program Files\\tesseract-OCR\\tesseract.exe'
